@@ -270,7 +270,7 @@ end
 -- "!status" returns the addon status (Enabled/Disabled).
 function FollowMe_ProcessWhisper(whisper, sender)
    tok=string.sub(whisper,1,1)
-   if ( tok ~= "!" ) then
+   if ( tok ~= "@" ) then
 	   return;
    end
 
