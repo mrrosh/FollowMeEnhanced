@@ -1,8 +1,8 @@
 --Commands
 FM_GROUP_ON = "on";
 FM_GROUP_OFF = "off";
-FM_WHISPERCOMMAND_FOLLOW = "!follow";
-FM_WHISPERCOMMAND_STATUS = "!status";
+FM_WHISPERCOMMAND_FOLLOW = "@follow";
+FM_WHISPERCOMMAND_STATUS = "@status";
 FM_COMMAND_STATUS = "status";
 FM_COMMAND_ANNOUNCE = "party";
 FM_COMMAND_RAID = "raid";
